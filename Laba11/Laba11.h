@@ -1,8 +1,6 @@
 #ifndef Laba11
 #define Laba11
 
-#include <stdio.h>
-#include <stdlib.h>
 
 union header;
 char* alloc(unsigned nbytes);

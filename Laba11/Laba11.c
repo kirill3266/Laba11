@@ -1,4 +1,6 @@
 #include "Laba11.h"
+#include<stdio.h>
+#include <stdlib.h>
 #define NALLOC 128 /*#units to allocate at once*/
 
 typedef int align; //выполняет выравнивание
